@@ -7,3 +7,6 @@
 /sbin:
 
 /usr/java/jdk1.8.0_25/bin:/home/hduser/bin:/usr/java/jdk1.8.0_25/bin:/home/hduser/bin:/usr/java/jdk1.8.0_25/bin:/home/hduser/bin:/sbin:/usr/bin:/usr/sbin:/usr/java/jdk1.8.0_25/bin
+
+Git is a distributed version control system.
+Git is free software.
